@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background: #020202;
+    cursor: crosshair;
+  }
+  
+  h1 {
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    
+    color: #F4F5F7;
+    font-family: "Impact,Charcoal,sans-serif";
+    font-size: 5em;
+    font-weight: 800;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+  h2 {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    
+    color: #F4F6F7;
+    font-family: "Impact,Charcoal,sans-serif";
+    font-size: 5em;
+    font-weight: 800;
+    -webkit-user-select: none;
+    user-select: none;
+  }
